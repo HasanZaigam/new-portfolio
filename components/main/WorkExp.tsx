@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { slideInFromLeft, slideInFromRight } from "@/utils/motion";
-
+import Image from "next/image";
 const experiences = [
   {
     id: 1,
@@ -94,7 +94,7 @@ const ExperienceTimeline = () => {
               </div>
 
               <div className="flex items-center mb-4">
-                <img
+                <Image
                   src={exp.logo}
                   alt={exp.company}
                   className="w-14 h-14 mr-4 rounded-lg shadow-md object-contain border-2 border-cyan-500"

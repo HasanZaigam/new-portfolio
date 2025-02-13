@@ -57,7 +57,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-4 max-w-[600px] mx-auto lg:mx-0 px-4 sm:px-0"
         >
-          I have 2+ years of experience in Full Stack Development and I'm
+          I have 2+ years of experience in Full Stack Development and I&apos;m
           currently learning Web3. Passionate about building high-quality web
           applications.
         </motion.p>
