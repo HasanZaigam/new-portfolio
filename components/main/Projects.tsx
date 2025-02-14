@@ -237,9 +237,9 @@ const projectsData = [
     title: "Operate AI Chatbots",
     description: "AI-powered chatbot system with NLP for real-time conversations.",
     src: "/WhatsApp Image 2025-02-11 at 2.41.06 AM.jpeg",
-    category: "Web2",
-    liveLink: "https://profiles.cyfrin.io/updraft/login",
-    sourceCode: "",
+    category: "Other",
+    liveLink: "https://illustrious-pudding-f88e55.netlify.app/",
+    sourceCode: "https://github.com/HasanZaigam/Operate-AI-Bot",
   },
   {
     id: 2,
@@ -247,8 +247,8 @@ const projectsData = [
     description: "A decentralized learning platform for blockchain & crypto education.",
     src: "/image copy 3.png",
     category: "Web3",
-    liveLink: "#",
-    sourceCode: "#",
+    liveLink: "https://cryptoquestsite.netlify.app/",
+    sourceCode: "https://github.com/HasanZaigam/CryptoQuest_Academy",
   },
   {
     id: 3,
@@ -256,8 +256,8 @@ const projectsData = [
     description: "A full-stack Amazon clone with Next.js, Redux, and Stripe.",
     src: "/image.png",
     category: "Web2",
-    liveLink: "",
-    sourceCode: "#",
+    liveLink: "amazon-nine-coral.vercel.app/",
+    sourceCode: "https://github.com/HasanZaigam/Amazon",
   },
   {
     id: 4,
@@ -265,8 +265,8 @@ const projectsData = [
     description: "Generative AI-powered website for creating and sharing AI-generated stories.",
     src: "/image copy.png",
     category: "Other",
-    liveLink: "#",
-    sourceCode: "#",
+    liveLink: "https://ai-story-teller-ten.vercel.app/",
+    sourceCode: "https://github.com/HasanZaigam/AI-Story-Teller",
   },
 ];
 
