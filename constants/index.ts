@@ -223,12 +223,12 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-    {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
-      width: 70,
-      height: 70,
-    },
+    // {
+    //   skill_name: "Tauri",
+    //   Image: "/tauri.svg",
+    //   width: 70,
+    //   height: 70,
+    // },
     {
       skill_name: "Docker",
       Image: "/docker.webp",
@@ -248,12 +248,12 @@ export const Skill_data = [
   
   
   export const Other_skill = [
-    {
-      skill_name: "Go",
-      Image: "/go.png",
-      width: 60,
-      height: 60,
-    },
+    // {
+    //   skill_name: "Go",
+    //   Image: "/go.png",
+    //   width: 60,
+    //   height: 60,
+    // },
   ];
   
   
