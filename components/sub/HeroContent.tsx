@@ -120,7 +120,7 @@ const HeroContent = () => {
       {/* Left Content */}
       <div className="h-full w-full flex flex-col gap-4 justify-center text-center lg:text-start">
         {/* Animated Tags */}
-        <div className="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-3">
+        <div className="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-3 sm:mt-2">
           <motion.div
             variants={slideInFromTop}
             className="Welcome-box py-2 px-3 border border-[#7042f88b] opacity-[0.9] flex items-center gap-2 text-sm text-white"
